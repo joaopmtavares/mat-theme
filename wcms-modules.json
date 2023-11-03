@@ -1,8 +1,8 @@
 {
     "version": 2,
     "themes": {
-        "MAT": {
-            "name": "MAT",
+        "mat-theme": {
+            "name": "M.A.T.",
             "repo": "https://github.com/joaopmtavares/mat_theme/tree/master",
             "zip": "https://github.com/joaopmtavares/mat-theme/archive/refs/heads/master.zip",
             "summary": "Tema personalizado para o webfólio de Miguel Armindo Teixeira.",
