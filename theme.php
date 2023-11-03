@@ -24,9 +24,9 @@
 		<?= $Wcms->settings() ?>
 		<?= $Wcms->alerts() ?>
 	
-		<nav class="navbar navbar-default">
+		<header class="navbar navbar-default">
 			<div class="container">
-				<div class="">
+				<div id="header-pt1">
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navMobile">&#9776;</button>
 						<a href="<?= $Wcms->url() ?>">
@@ -34,7 +34,7 @@
 						</a>
 					</div>
 				</div>
-				<div class="col-sm-7 text-center">
+				<div id="header-pt2" class="text-center">
 					<div class="collapse navbar-collapse" id="navMobile">
 						<ul class="nav navbar-nav navbar-right">
 							<?= $Wcms->menu() ?>
@@ -43,7 +43,7 @@
 					</div>
 				</div>
 			</div>
-		</nav>
+		</header>
 	
 		<div class="container">
 			<div class="col-xs-12 col-sm-8">
