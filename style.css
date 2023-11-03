@@ -45,6 +45,10 @@ ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.act
 	padding: 25px 20px 25px 25px;
 }
 
+.navbar .container {
+  padding: 0 30px;
+}
+
 
 footer a, footer a:hover, .navbar a {
 	color: #fff;
