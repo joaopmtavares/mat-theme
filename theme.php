@@ -26,7 +26,7 @@
 	
 		<nav class="navbar navbar-default">
 			<div class="container">
-				<div class="col-sm-5 text-center">
+				<div class="">
 					<div class="navbar-header">
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navMobile">&#9776;</button>
 						<a href="<?= $Wcms->url() ?>">
