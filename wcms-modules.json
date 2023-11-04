@@ -1,12 +1,12 @@
 {
-    "version": 9,
+    "version": 10,
     "themes": {
         "mat-theme": {
             "name": "M.A.T.",
             "repo": "https://github.com/joaopmtavares/mat-theme/tree/master",
             "zip": "https://github.com/joaopmtavares/mat-theme/archive/refs/heads/master.zip",
             "summary": "Tema personalizado para o webfólio de Miguel Armindo Teixeira.",
-            "version": "0.0.9",
+            "version": "0.0.10",
             "image": "https://raw.githubusercontent.com/robiso/lightBlue/master/preview.jpg"
         }
     }
