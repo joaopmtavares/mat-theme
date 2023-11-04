@@ -17,7 +17,8 @@
 		<?= $Wcms->css() ?>
 
 		<!-- Theme CSS -->
-		<link rel="stylesheet" href="<?= $Wcms->asset('style.css') ?>">
+		<link rel="stylesheet" href="https://raw.githubusercontent.com/joaopmtavares/mat-theme/master/style.css">
+		<? /*= $Wcms->asset('style.css') */ ?>
 	</head>
 
 	<body>
