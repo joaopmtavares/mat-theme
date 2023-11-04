@@ -4,10 +4,9 @@ html {
 }
 
 body {
-	color: #fff;
-	background: #eee;
-	margin-bottom: 100px;
-	font-family: Lucida Sans Unicode, Verdana;
+	color: #000;
+	background: #FAFAFA;
+	font-family: Georgia;
 }
 
 a, a:hover {
