@@ -17,7 +17,7 @@
 		<?= $Wcms->css() ?>
 
 		<!-- Theme CSS -->
-		<link rel="stylesheet" href="<?= $Wcms->asset('css/style.css') ?>">
+		<link rel="stylesheet" href="<?= $Wcms->asset('style.css') ?>">
 	</head>
 
 	<body>
